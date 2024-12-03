@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ec78a3e-3fee-4522-9825-abcc6e6fe154" name="Changes" comment="" />
+    <list default="true" id="6ec78a3e-3fee-4522-9825-abcc6e6fe154" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;stefanvasilev2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/stefanvasilev2002/AdventOfCode2024&quot;,
+    &quot;accountId&quot;: &quot;185b6175-9284-4000-ba0f-112420838fd7&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -33,18 +56,27 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/38978/Desktop/Fax/_&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/38978/Desktop/Advent Of Code 2024&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\38978\Desktop\Advent Of Code 2024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +112,8 @@
       <workItem from="1730804970017" duration="624000" />
       <workItem from="1733052129749" duration="1803000" />
       <workItem from="1733131267307" duration="206000" />
+      <workItem from="1733217494686" duration="955000" />
+      <workItem from="1733218494180" duration="427000" />
     </task>
     <servers />
   </component>
